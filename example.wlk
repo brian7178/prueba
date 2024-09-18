@@ -105,7 +105,7 @@ object tomBombadil {
         vidatom = algo
     }
     method vida() = vidatom
-    method restarvida(cantidad) = 2000 
-    method sumarvida() = 2000 
+    method restarvida(cantidad) = vidatom 
+    method sumarvida() = vidatom 
    
 }
